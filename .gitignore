@@ -19,3 +19,7 @@ compvision/
 
 # VSCode
 .vscode/
+
+# Dataset path
+data/
+
