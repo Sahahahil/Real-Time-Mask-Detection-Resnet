@@ -92,24 +92,3 @@ data/
 
 Feel free to open issues or submit pull requests!
 Make sure to add your dataset separately and do not commit large data files.
-
----
-
-## License
-
-MIT License © Sahil Duwal
-
----
-
-## Contact
-
-Created by Sahil Duwal
-Email: [your.email@example.com](mailto:your.email@example.com)
-GitHub: [yourusername](https://github.com/yourusername)
-
-```
-
----
-
-If you want, I can help you generate a `requirements.txt` too! Just ask.
-```
