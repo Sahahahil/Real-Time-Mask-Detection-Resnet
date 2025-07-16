@@ -1,5 +1,3 @@
-Sure! Here’s a clear, professional README.md for your **face-mask-detection** repo:
-
 ````markdown
 # Face Mask Detection
 
