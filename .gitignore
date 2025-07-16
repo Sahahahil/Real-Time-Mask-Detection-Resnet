@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Environment
+*.env
+venv/
+compvision/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+
+# Models
+*.pth
+
+# VSCode
+.vscode/
