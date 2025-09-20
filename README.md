@@ -1,4 +1,3 @@
-````markdown
 # Face Mask Detection
 
 A real-time face mask detection system built with PyTorch, OpenCV, and MediaPipe.  
